@@ -1,0 +1,39 @@
+img {
+    width: 80px;
+
+
+}
+
+h2 {
+
+    color: #333;
+    font-size: 60px;
+    font-weight: 500px;
+    font-family: 'Poppins', sans-serifS;
+
+
+}
+
+
+strong {
+
+    color: #017143;
+    font-size: 70px;
+    font-weight: 900px;
+
+}
+
+p{
+font-size: 20px;
+
+
+}
+button{
+
+background: #017143;
+color: white;
+border-radius: 40px;
+border: none;
+cursor: pointer;
+
+}
